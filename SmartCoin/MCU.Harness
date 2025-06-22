@@ -1,0 +1,4 @@
+I2C=SCK,SDA
+SPI_Flash=1,2,3,4,5,6
+SWD Debug=1,2,3,4
+USB_Data=Dp,Dn
